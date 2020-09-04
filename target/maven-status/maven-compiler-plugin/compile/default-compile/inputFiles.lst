@@ -1,7 +1,9 @@
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/model/persistent/AccountDao.java
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/model/Projection/Stock.java
+/Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/exception/CustomErrorDetails.java
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/exception/ExceptionDetails.java
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/repository/AccountDaoRepository.java
+/Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/exception/CustomGlobalExceptionHandler.java
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/model/Projection/ExecutionOrder.java
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/integration/TradingService.java
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/model/data/ApiResponseWrapper.java
@@ -10,6 +12,7 @@
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/model/Projection/Account.java
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/model/persistent/ExecutedOrdersDao.java
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/exception/ServerApplicationException.java
+/Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/exception/UserNotFoundException.java
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/controller/TradingController.java
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/model/data/Errors.java
 /Users/naresh/Downloads/trading/Trading-Server/src/main/java/com/trading/system/configuration/AppConfiguration.java
