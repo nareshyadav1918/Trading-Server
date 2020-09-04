@@ -1,9 +1,16 @@
 
 # Getting Started
 
-### Prerequisites
+## Technologies
+	Spring Boot
+	Spring Data JPA
+	H2 for persistence
 	Java 8 or above
 	Lombok plugin
+	Flyway
+	
+	
+		
 
 ### Install and Build ( using maven )
 	1. Go to the root folder
@@ -67,5 +74,3 @@ For further reference, please consider the following sections:
 * [Flyway Migration](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/reference/htmlsingle/#howto-execute-flyway-database-migrations-on-startup)
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/reference/htmlsingle/#using-boot-devtools)
 * [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/reference/htmlsingle/#boot-features-jpa-and-spring-data)
-
-
